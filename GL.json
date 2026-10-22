@@ -1,4 +1,6 @@
 {
   "image": "https://github.com/hidear586-source/Hlak/raw/refs/heads/main/icon.png",
-  "version": "64 v2.2"
+  "version": "64 v2.2",
+  "library": "https://github.com/hidear586-source/Hlak/raw/refs/heads/main/libHLAK.so",
+  "telegram": "https://t.me/HLAKVIP"
 }
